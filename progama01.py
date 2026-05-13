@@ -6,7 +6,7 @@ print(8.2) # float (numero real ou decimal, ponto flutuante)
 print(True) # verdadeiro (booleano -boool)
 print(False) # falso (booleano - bool)
 
-nome = "Maria"
+nome = 
 idade = 19
 peso = 62.5
 maioridade = True
