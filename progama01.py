@@ -1,5 +1,5 @@
 print("hello wolrd") 
-ptint("1") # str (string de caracteres)
+print("1") # str (string de caracteres)
 print(1) # int (numero inteiro)
 print(-2) # int (numero inteiro)
 print(8.2) # float (numero real ou decimal, ponto flutuante)

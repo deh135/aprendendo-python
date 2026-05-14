@@ -5,7 +5,7 @@ resultado = n1 + n2
 resultado2 = n1 % n2
 resultado3 = n1 ** n2
 
-print("o resultado e1 : " , resultado)
+print("o resultado e 1 : " , resultado)
 
 print("o resultado da parte inteira da divisão e : ", resultado)
 print("o resultado2 do resto da divisão e : " , resultado2)
