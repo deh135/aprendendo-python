@@ -24,7 +24,3 @@ while continuar == "s":
     print(dados_pessoais.get( dados, "valor nao encontrado! "))
 
     continuar = input("quer continuar? [s/n] ")[0].lower()
-
-
-
-
